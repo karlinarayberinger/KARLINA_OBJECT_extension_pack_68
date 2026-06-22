@@ -1,0 +1,11 @@
+/**
+ * file: journal_karbytes_20june2026_p0.txt
+ * type: plain-text
+ * date: 20_JUNE_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+If you cannot acknowledge X in yourself (assuming that X is truly an attribute you possess), then you are too insecure to pursue truth.
+
+KARBYTES is karbytes' cybernetic shell which karbytes constructs to implement and sustain karbytes' pursuit of truth (in the form of the most comprehensive and accurate understanding of nature which karbytes can possibly attain).

@@ -1,0 +1,169 @@
+/**
+ * file: journal_karbytes_19june2026_p0.txt
+ * type: plain-text
+ * date: 22_JUNE_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+### In the following pseudocode...
+### [anonymous_github_username] -> informationcrystals
+### [public_files_repository] -> projects
+### [N] -> nonnegative integer number of KARLINA_OBJECT_extension_pack
+
+For each Uniform Resource Locator (URL) listed in this file:
+    Change the following string within that URL from:
+        [anonymous_github_username]/[public_files_repository]
+    To:
+        karlinarayberinger/KARLINA_OBJECT_extension_pack_[N]
+    If the URL ends with any one of the following strings:
+        temp.txt 
+        index.html
+        sub-index_page_112.html
+        sub-index_page_113.html
+        sub-index_page_114.html
+        sub-index_page_115.html
+    Then:
+        assume that file does not exist (at and after 11:59PM Pacific Standard Time on 31_DECEMBER_2026).
+    Otherwise:
+        assume that file exists (at and after 11:59PM Pacific Standard Time on 31_DECEMBER_2026).
+
+### ...End of pseudocode
+
+* * *
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/temp.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/index.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/sub-index_page_112.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/sub-index_page_113.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/sub-index_page_114.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/sub-index_page_115.html
+
+* * *
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/blackened_karbytes_19june2026_p0.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/blackened_karbytes_19june2026_p1.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karbytes_19june2026_p0.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karbytes_19june2026_p1.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karbytes_20june2026_p0.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karbytes_21june2026_p0.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karbytes_21june2026_p1.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/journal_karbytes_19june2026_p0.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/journal_karbytes_20june2026_p0.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/journal_karbytes_20june2026_p1.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_enters_bart_train_20june2026_p0.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_enters_onion_server_room_20june2026_p0.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_immersed_in_onion_server_room_p0.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_rides_bart_train_to_dublin_20june2026_p0.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_social_media_posts.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_testosterone_updates_[20june2026].txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_thinking_19june2026_p0.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_thinking_19june2026_p1.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_thinking_19june2026_p2.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/obs_studio_recording_20june2026_p0.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/obs_studio_recording_20june2026_p1.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/obs_studio_recording_21june2026_p0.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/obs_studio_recording_21june2026_p1.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/obs_studio_recording_21june2026_p2.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/obs_studio_recording_22june2026_p0.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/obs_studio_recording_22june2026_p1.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/ramage_peak_trail_19june2026_p0.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/ramage_peak_trail_19june2026_p1.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/ramage_peak_trail_19june2026_p2.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/ramage_peak_trail_19june2026_p3.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/ramage_peak_trail_19june2026_p4.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/ramage_peak_trail_19june2026_p5.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/ramage_peak_trail_19june2026_p6.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/ramage_peak_trail_19june2026_p7.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/ramage_peak_trail_19june2026_p8.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/ramage_peak_trail_19june2026_p9.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/ramage_peak_trail_19june2026_p10.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/ramage_peak_trail_19june2026_p11.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/ramage_peak_trail_19june2026_p12.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/ramage_peak_trail_19june2026_p13.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/ramage_peak_trail_19june2026_p14.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/ramage_peak_trail_19june2026_p15.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/ramage_peak_trail_19june2026_p16.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/ramage_peak_trail_19june2026_p17.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/ramage_peak_trail_19june2026_p18.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/ramage_peak_trail_19june2026_p19.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/ramage_peak_trail_19june2026_p20.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/ramage_peak_trail_19june2026_p21.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/ramage_peak_trail_19june2026_p22.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/ramage_peak_trail_19june2026_p23.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/ramage_peak_trail_19june2026_p24.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/ramage_peak_trail_19june2026_p25.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/ramage_peak_trail_19june2026_p26.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/ramage_peak_trail_19june2026_p27.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/raw_github_files_directory_KARLINA_OBJECT_extension_pack_68.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_chatgpt_karbytes_05july2026.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_chatgpt_karbytes_06july2026.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_chatgpt_karbytes_07july2026.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_journal_karbytes_21june2026.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_karbytes_social_media_posts_koep68.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_karbytes_wayback_machine_saves_precision_batches_extension_1.html
