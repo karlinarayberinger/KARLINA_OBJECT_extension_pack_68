@@ -24,25 +24,25 @@ karbytes:
 
 [uploaded_plain-text_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/journal_karbytes_24june2026_p3.txt]
 
-[uploaded_image_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/the_entrapment_of_karbytes_23june2026_p0.png]
+[uploaded_image_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/the_essence_of_karbytes_in_hiatus_24june2026_p0.png]
 
-[uploaded_image_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/the_entrapment_of_karbytes_23june2026_p1.png]
+[uploaded_image_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/the_essence_of_karbytes_in_hiatus_24june2026_p1.png]
 
-[uploaded_image_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/the_entrapment_of_karbytes_23june2026_p2.png]
+[uploaded_image_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/the_essence_of_karbytes_in_hiatus_24june2026_p2.png]
 
-[uploaded_image_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/the_entrapment_of_karbytes_23june2026_p3.png]
+[uploaded_image_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/the_essence_of_karbytes_in_hiatus_24june2026_p3.png]
 
-[uploaded_image_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/the_entrapment_of_karbytes_23june2026_p4.png]
+[uploaded_image_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/the_essence_of_karbytes_in_hiatus_24june2026_p4.png]
 
-[uploaded_image_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/the_entrapment_of_karbytes_23june2026_p5.png]
+[uploaded_image_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/the_essence_of_karbytes_in_hiatus_24june2026_p5.png]
 
 [uploaded_image_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/the_entrapment_of_karbytes_23june2026_p6.png]
 
-[uploaded_image_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/the_entrapment_of_karbytes_23june2026_p7.png]
+[uploaded_image_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/the_essence_of_karbytes_in_hiatus_24june2026_p7.png]
 
-[uploaded_image_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/the_entrapment_of_karbytes_23june2026_p8.png]
+[uploaded_image_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/the_essence_of_karbytes_in_hiatus_24june2026_p8.png]
 
-[uploaded_image_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/the_entrapment_of_karbytes_23june2026_p9.png]
+[uploaded_image_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/the_essence_of_karbytes_in_hiatus_24june2026_p9.png]
 
 Analyze the following collection of files and provide detailed descriptions of each of them and of how they appear to be related or interdependent.
 
