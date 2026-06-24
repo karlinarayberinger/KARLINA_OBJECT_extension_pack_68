@@ -232,7 +232,7 @@ In that sense, these files are not merely about pausing KARBYTES. They are about
 
 karbytes:
 
-[uploaded_html_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/unlisted_web_page_journal_karbytes_26june2026.html]
+[uploaded_html_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/unlisted_web_page_journal_karbytes_09july2026.html]
 
 [relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_09july2026/]
 
