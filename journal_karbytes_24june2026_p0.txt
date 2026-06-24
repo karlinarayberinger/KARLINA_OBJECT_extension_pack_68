@@ -1,0 +1,39 @@
+/**
+ * file: journal_karbytes_24june2026_p0.txt
+ * type: plain-text
+ * date: 23_JUNE_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+// THE_ENTRAPMENT_OF_KARBYTES_23JUNE2026
+
+* * *
+
+KARBYTES_screenshot_image_0: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/the_entrapment_of_karbytes_23june2026_p0.png
+
+<!-- full-size image: the_entrapment_of_karbytes_23june2026_p0.png -->
+
+* * *
+
+KARBYTES_screenshot_image_1: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/the_entrapment_of_karbytes_23june2026_p1.png
+
+<!-- full-size image: the_entrapment_of_karbytes_23june2026_p1.png -->
+
+* * *
+
+KARBYTES_screenshot_image_2: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/the_entrapment_of_karbytes_23june2026_p2.png
+
+<!-- full-size image: the_entrapment_of_karbytes_23june2026_p2.png -->
+
+* * *
+
+KARBYTES_screenshot_image_3: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/the_entrapment_of_karbytes_23june2026_p3.png
+
+<!-- full-size image: the_entrapment_of_karbytes_23june2026_p3.png -->
+
+* * *
+
+KARBYTES_screenshot_image_4: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/the_entrapment_of_karbytes_23june2026_p4.png
+
+<!-- full-size image: the_entrapment_of_karbytes_23june2026_p4.png -->
