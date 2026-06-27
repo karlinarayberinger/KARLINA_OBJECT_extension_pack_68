@@ -32,7 +32,7 @@ file_11: KARBYTES_FOR_LIFE_BLOG-main_27june2026.zip // SHA-256: 72c24567722bf312
 
 file_12: karbytes_wayback_machine_saves_precision_batches-main.zip // SHA-256: d5ca71b6097bcb52a37db14074c1c8d1b3ca3941905741ba775c3c0ccaf43a16
 
-file_13: KARLINA_OBJECT_extension_pack_68-main_27june2026.zip // SHA-256: 42ee37524c3838956882542fa579ea7cd32c89809ebc9249b1d3988f9658e394
+file_13: KARLINA_OBJECT_extension_pack_68-main_27june2026.zip // SHA-256: 01a149c75a2219d9a9978abd7ef0a04a0eb602ee390156886129e87975881de4
 
 file_14: KARLINA_OBJECT_extension_pack_66-main.zip // SHA-256: 8740f253a8a45c95d36abc4a5cbafe0812ff2d74bc0ae395b0debc741c720495
 
